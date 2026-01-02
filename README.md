@@ -102,3 +102,40 @@ Collaborative Filtering: A technique used by some recommendation systems. In col
 Multi-task Learning: A type of machine learning where multiple learning tasks are solved at the same time while exploiting commonalities and differences across tasks.
 Perceptual Hashing (pHash): A technique to convert multimedia content (images, text, video) into a manageable hash value.
 Generative Model: A type of machine learning model that generates new data that is similar to the training data.
+
+
+
+
+
+
+Core AI Concepts
+Artificial Intelligence (AI)
+Technology that enables computers to perform tasks that traditionally require human intelligence. AI systems process large amounts of data, identify patterns, and make predictions or recommendations based on what they’ve learned.
+
+Example: AI powers your email spam filter, automatically identifying and filtering out unwanted messages based on patterns it has learned from millions of emails
+
+Generative Artificial Intelligence (GenAI)
+AI systems capable of creating new content such as text, images, code, designs, and more in response to prompts or instructions. GenAI understands patterns from massive datasets and then generates new, original outputs that weren’t explicitly programmed.
+
+While many companies have implemented GenAI solutions, making them work consistently across thousands of users remains challenging. Organizations often struggle with hallucination, prompt consistency, and ensuring enterprise-grade reliability.
+
+Example: ChatGPT writing an email draft, DALL-E creating custom marketing images, or GitHub Copilot suggesting code — all from simple text prompts.
+
+Large Language Model (LLM)
+A sophisticated massive neural network system trained on vast amounts of unstructured text, images, audio and other content.  As a result of this training, LLMs can understand, generate, and manipulate human language. LLMs form the foundation of many modern AI applications.
+
+Example: OpenAI’s GPT-4, Anthropic’s Claude, and Google’s Gemini are LLMs that power chatbots and can write essays, summarize documents, or translate languages.
+
+Natural Language Processing (NLP)
+AI technology focused on enabling computers to understand, interpret, and generate human language. NLP powers applications like sentiment analysis, language translation, document classification, and conversational interfaces.
+
+NLP capabilities have advanced dramatically in recent years, moving from basic keyword recognition to sophisticated understanding of context, sentiment, and intent.
+
+Example: Gmail’s Smart Compose suggesting phrases as you type, Google Translate converting between languages, or Grammarly checking your writing are all NLP applications.
+
+Artificial General Intelligence (AGI)
+A theoretical advancement where AI systems would possess human-like general intelligence, enabling them to understand, learn, and apply knowledge across a wide range of tasks without specialized training for each domain.
+
+Given that making AI more intelligent is a problem that humans have tackled, it is reasonable to assume that an AGI with truly General capabilities could also undertake this problem.  This leads to the runaway growth of AI intelligence, as it improves itself, potentially going beyond human capabilities or even beyond capabilities that humans could understand.
+
+Example: AGI would be like having a single system with human-level intelligence that could simultaneously write your marketing copy, analyze your financial data, and redesign your website — without specialized training for each task.
